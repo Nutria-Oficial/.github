@@ -18,7 +18,7 @@ Nosso sistema ajuda profissionais da área nutricional a:
 - ✅ Avaliação da qualidade dos alimentos  
 - 💡 Sugestões automáticas com base em dados nutricionais  
 - 🔄 Comparação entre tabelas
-- 🤖 Chat IA dando suporte para o usuário
+- 🤖 Chat IA (Tria) dando suporte para o usuário
 - 📸 Escaneia tabelas de produtos já prontos
 - 📱 Aplicativo mobile Android  
 - 🌐 Landing page institucional  
@@ -29,7 +29,7 @@ Nosso sistema ajuda profissionais da área nutricional a:
 ## 🛠️ Tecnologias Utilizadas
 
 🧡 **Frontend**  
-- HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript, React
 
 🧡 **Backend**  
 - Java com Spring Boot  
